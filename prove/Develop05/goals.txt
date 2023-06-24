@@ -1,0 +1,2 @@
+Total Earned Points: 0
+SimpleGoal,jkl,False,0
